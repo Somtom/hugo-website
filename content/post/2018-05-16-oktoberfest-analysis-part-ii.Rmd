@@ -9,15 +9,14 @@ tags:
   - Munich Open Data
   - Oktoberfest
   - R
+header:
+  image: "./headers/oktoberfest-2.png"
+  caption: "Image credit: Bundesarchiv, B 145 Bild-F011476-0004 / Müller, Simon / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en), via Wikimedia Commons"
+image: https://upload.wikimedia.org/wikipedia/commons/1/16/Bundesarchiv_B_145_Bild-F011476-0004%2C_M%C3%BCnchen%2C_Landwirtschaftsausstellung.jpg
 ---
-
-
-![Bundesarchiv, B 145 Bild-F011476-0004 / Müller, Simon / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/de/deed.en), via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/1/16/Bundesarchiv_B_145_Bild-F011476-0004%2C_M%C3%BCnchen%2C_Landwirtschaftsausstellung.jpg)
-
-# Introduction
-
 Everybody knows the Oktoberfest which takes place in Munich every year. In this blog post series we 
-are going to look into a public availabe dataset and try to gain some insights about the Oktoberfest.   
+are going to look into a public availabe dataset and try to gain some insights about the Oktoberfest.  
+
 In the [first part](https://somtom.github.io/post/oktoberfest-analysis-part-i/) we loaded and described the data. We also analysed the price and consumption 
 of beer and hendl (chicken) over the years.  
 

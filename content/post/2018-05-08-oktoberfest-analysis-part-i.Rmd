@@ -9,10 +9,11 @@ tags:
   - Oktoberfest
   - R
   - Munich Open Data
+header:
+  image: "./headers/oktoberfest-1.png"
+  caption: "Image credit: By Bayreuth2009 [GFDL](http://www.gnu.org/copyleft/fdl.html); [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), from Wikimedia Commons"
+image: https://upload.wikimedia.org/wikipedia/commons/a/ab/M%C3%BCnchen%2C_Sch%C3%BCtzen-Festzelt%2C_Oktoberfest_2012_%2801%29.jpg
 ---
-![By Bayreuth2009 [GFDL](http://www.gnu.org/copyleft/fdl.html); [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), from Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/a/ab/M%C3%BCnchen%2C_Sch%C3%BCtzen-Festzelt%2C_Oktoberfest_2012_%2801%29.jpg)
-
-# Introduction
 
 Everybody knows the Oktoberfest which takes place in Munich every year. In this blog post series we 
 are going to look into a public available data set and try to gain some insights about the Oktoberfest.   
